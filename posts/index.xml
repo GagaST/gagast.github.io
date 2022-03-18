@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on GagaSongTranslation</title>
+    <link>https://gagast.github.io/posts/</link>
+    <description>Recent content in Posts on GagaSongTranslation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Mar 2022 17:31:08 +0800</lastBuildDate><atom:link href="https://gagast.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Human Evaluation</title>
+      <link>https://gagast.github.io/posts/human_eval/</link>
+      <pubDate>Fri, 18 Mar 2022 17:31:08 +0800</pubDate>
+      
+      <guid>https://gagast.github.io/posts/human_eval/</guid>
+      <description>We conduct subjective evaluations by collecting annotations about the qualities of the translated songs from music school students. Following mean opinion score (MOS) in speech synthesis, we use five-point Likert scales (1 for bad and 5 for excellent). And we evaluate the songs on four dimensions:
+ sense, fidelity to the meaning of the source lyric; style, whether the translated lyric resembles song-text style; listenability, whether the translated lyric sounds melodious with the given melody; intelligibility, whether the audience can easily comprehend the translated lyrics if sung with provided melody.</description>
+    </item>
+    
+    <item>
+      <title>Sounds Good! Melody-Guided Alignment for Automatic Song Translation</title>
+      <link>https://gagast.github.io/posts/gagast/</link>
+      <pubDate>Fri, 06 Aug 2021 15:51:38 +0800</pubDate>
+      
+      <guid>https://gagast.github.io/posts/gagast/</guid>
+      <description>Task Description Song translation aims to translate the lyrics in a song so that it can be performed in the target language. Unlike lyrics interpretation, song translation is harder because in addition to capturing the meaning, it must also obey music prosody constraints to preserve the singability and intelligibility.
+Linguists and musicians point out that the rhythmic prosody of lyrics and melody should match to have natural sounding; and for tonal language such as Chinese, the pitch flow created by tones should align with the melodic contour.</description>
+    </item>
+    
+  </channel>
+</rss>
